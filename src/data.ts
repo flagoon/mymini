@@ -3005,18 +3005,6 @@ export const data = [
 			'https://dl2.myminifactory.com/object-assets/640156544b034/images/1000X1000-bs-jetpack-superior-render-ads-1-1.jpg'
 	},
 	{
-		id: 'object-261764',
-		name: 'ExoFront_Skirmish_Game_Assets',
-		url: 'exofront-skirmish-game-assets-261764',
-		creator: {
-			id: 961319,
-			name: 'Puppetswar Miniatures',
-			username: 'Puppetswar_Miniatures',
-			avatarUrl:
-				'https://images2.myminifactory.com/insecure/rt:fill-down/w:200/h:200/el:1/plain/https://dl.myminifactory.com/uploads/profile-images/78f170318e037aef98652b7b115f0f849a1b7fcc.jpg'
-		}
-	},
-	{
 		id: 'object-254107',
 		name: 'Ratmen Game Aids',
 		url: 'ratmen-game-aids-254107',
